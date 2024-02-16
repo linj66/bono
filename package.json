@@ -12,10 +12,13 @@
     "test": "echo \"Imagine having tests lmao. Skip testing\""
   },
   "dependencies": {
+    "csv-to-markdown-table": "^1.4.1",
     "fs-extra": "^11.2.0",
     "papaparse": "^5.4.1",
+    "pip": "^0.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "ts-node": "^10.9.2",
     "victory": "^36.9.0"
   },
   "devDependencies": {
